@@ -3,3 +3,9 @@ h1{
     text-align: center;
 }
 
+.cabecalho_menu {
+    width: 24px;
+    height: 24px;
+    background-image: url("..");
+    display:inline=block
+}
