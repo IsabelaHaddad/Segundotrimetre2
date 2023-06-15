@@ -6,6 +6,6 @@ h1{
 .cabecalho_menu {
     width: 24px;
     height: 24px;
-    background-image: url("..");
+    background-image: url("../Menu");
     display:inline=block
 }
