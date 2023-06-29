@@ -1,7 +1,19 @@
-@import url("style/header.css")
-h1{
-    background-color: aquamarine;
-    text-align: center;
+@import url(styles/header.css);
+@import url(styles/banner.css);
+
+:root{
+    --cor-de-fundo:#EBECEE;
+    --branco:#FFFFFF;
+    --amarelo:#FECD2F;
+    --roxo:#800080;
+    --fonte-principal: "Poppins";
+
 }
 
+body{
+    background-color:var(--cor-de-fundo);
+    font-family: var(--fonte-principal) ;
+    font-size: 16px;
+    font-weight:400;
+}
 
